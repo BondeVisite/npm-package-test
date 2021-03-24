@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/BondeVisite/npm-package-test.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@mohammedlacarne"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
