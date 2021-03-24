@@ -1,6 +1,6 @@
 {
-  "name": "npm-package-test",
-  "version": "1.0.0",
+  "name": "@Bondevisite/npm-package-test",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/BondeVisite/npm-package-test.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mohammedlacarne"
+    "cache": "cache/.npm",
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "",
   "license": "ISC",
