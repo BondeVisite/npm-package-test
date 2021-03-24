@@ -1,1 +1,3 @@
-export const helloWorld = () => 'Howdy!'
+const helloWorld = () => console.log('Howdy!')
+
+module.export = { helloWorld }
